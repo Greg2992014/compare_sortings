@@ -1,2 +1,2 @@
-# sorting
+# compare_sorting
 Compare Sorting Algorithms
